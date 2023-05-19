@@ -1,4 +1,4 @@
-<div align="center"><h1 style=align="center">ULTOR3020</h1></div>
+<div align="center"><h1 style=align="center">Tiny ULTOR</h1></div>
 
 <div align="center"><img src="media/Ultor.8.png" width="100%"></div>
 
