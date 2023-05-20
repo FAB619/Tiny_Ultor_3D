@@ -21,6 +21,13 @@ Specifications
 - Screens: Touchscreen HMI interface for easy operation / Reprap LCD 2004
 - Pcb Board: **619-Rumba3D**
 
+Files 
+--
+ - **[CAD Files](https://github.com/FAB619/ULTOR3020/tree/main/CAD)**
+ - **[Fabrication Files](https://github.com/FAB619/Tiny_Ultor_3D/tree/main/Fabrication)**
+- **[Assembly Book]()**
+- **[Firmware ]()**
+
 
 3D printing Test 
 --
