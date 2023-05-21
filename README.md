@@ -19,7 +19,7 @@ Specifications
 - drivers: trinamic TMC2208
 - adjustable and heated printing bed
 - Screens: Touchscreen HMI interface for easy operation / Reprap LCD 2004
-- Pcb Board: **619-Rumba3D**
+- Pcb Board: **Rumba3D**
 
 Files 
 --
