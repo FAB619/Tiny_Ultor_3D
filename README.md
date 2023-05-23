@@ -8,6 +8,14 @@ Welcome to the **TINY ULTOR** machine documentation.
 
 **We are excited to share our open-source 3D printer project in collaboration with Inmachines Gmbh!!**
 
+<div align="center"><img src="media/Ultor.5.png" width="100%"></div>
+
+<div align="center"><img src="media/Ultor.7.png" width="100%"></div>
+
+<div align="center"><img src="media/Ultor.6.png" width="100%"></div>
+
+
+
 Specifications
 --
 - Build volume: 200x200x200mm
@@ -19,14 +27,14 @@ Specifications
 - drivers: trinamic TMC2208
 - adjustable and heated printing bed
 - Screens: Touchscreen HMI interface for easy operation / Reprap LCD 2004
-- Pcb Board: **Rumba3D**
+- Pcb Board: **Rumba3D-SPLink** board.
 
 Files 
 --
- - **[CAD Files](https://github.com/FAB619/ULTOR3020/tree/main/CAD)**
+ - **[CAD Files](https://github.com/FAB619/Tiny_Ultor_3D/tree/main/CAD)**
  - **[Fabrication Files](https://github.com/FAB619/Tiny_Ultor_3D/tree/main/Fabrication)**
 - **[Assembly Book]()**
-- **[Firmware ]()**
+- **[Firmware ](https://github.com/FAB619/Tiny_Ultor_3D/tree/main/Firmware/Marlin-2.0.9.6)**
 
 
 3D printing Test 
