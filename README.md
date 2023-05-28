@@ -94,10 +94,11 @@ Author
 
 <br>
 
-Machine design:
-- **[Kais ALILA](http://fabacademy.org/2020/labs/kamplintfort/students/kais-alila/)**
+<b>FAB619 Design Team:</b>
 
-- **[Mhamed ALILA](https://www.behance.net/alilamhamed)**
+<div><img src="media/team.png" width="100%"></div>
+
+<b> [Kais ALILA](http://fabacademy.org/2020/labs/kamplintfort/students/kais-alila/) | [Mhamed ALILA](https://www.behance.net/alilamhamed) | [Zomita Khayreddine](https://www.linkedin.com/in/zomita-khayreddine-916718217/) | [Ltifi Haythem](https://www.linkedin.com/in/haythemltifi/) | [Samer Jawadi](https://www.linkedin.com/in/samer-jawadi/) | [Ahmed Kaddour Belaid](https://www.linkedin.com/in/ahmed-kaddour-belaid-a6854418a/) </b>
 
 
 Note
