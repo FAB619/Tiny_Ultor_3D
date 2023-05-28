@@ -29,11 +29,23 @@ Specifications
 - Screens: Touchscreen HMI interface for easy operation / Reprap LCD 2004
 - Pcb Board: **[Rumba3D-SPLink](https://github.com/FAB619/Rumba3D-SPLink)** board.
 
+Electronics
+----
+
+Electronics design are one of the key features of FAB619 products. All products are 100% designed & made in tunisia. The electronics and boards are designed locally and fully functional with more addons.
+
+![](https://raw.githubusercontent.com/FAB619/Rumba3D-SPLink/main/media/02.jpg)
+
+![](https://raw.githubusercontent.com/FAB619/Tiny_Ultor_3D/main/media/TinyUltor%20Assembly%20Guide_June23/01_TinyUltor_AssemblyGuide52.jpg)
+
+![](https://raw.githubusercontent.com/FAB619/Tiny_Ultor_3D/main/media/TinyUltor%20Assembly%20Guide_June23/01_TinyUltor_AssemblyGuide53.jpg)
+
+
 Files 
 --
  - **[CAD Files](https://github.com/FAB619/Tiny_Ultor_3D/tree/main/CAD)**
  - **[Fabrication Files](https://github.com/FAB619/Tiny_Ultor_3D/tree/main/Fabrication)**
-- **[Assembly Book]()**
+- **[Assembly Book](https://github.com/FAB619/Tiny_Ultor_3D/wiki/Tiny-Ultor-3D-Assembly-Guide)**
 - **[Firmware ](https://github.com/FAB619/Tiny_Ultor_3D/tree/main/Firmware/Marlin-2.0.9.6)**
 
 
